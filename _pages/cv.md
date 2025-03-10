@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download (Kevin Liu Reusme)[]
+Download (Kevin Liu Reusme)[files/Kevin_Liu_Resume.pdf]
