@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kevin Liu Portfolio"
+title                    : "Kevin Liu"
 title_separator          : "-"
 name                     : &name "Kevin Liu"
 description              : &description "Math and Stats Student"
